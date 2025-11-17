@@ -1,0 +1,2 @@
+Hi {{name}}! Thanks so much for choosing us. Quick question — would you mind leaving a review about your experience? It really helps our business grow. Here’s the link:
+{{insert_google_review_link}}
