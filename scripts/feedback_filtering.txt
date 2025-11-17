@@ -1,0 +1,5 @@
+If rating < 4:
+- ask what went wrong
+- collect details
+- DO NOT send them to Google
+- privately notify the business
