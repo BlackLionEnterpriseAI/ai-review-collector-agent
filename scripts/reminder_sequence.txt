@@ -1,0 +1,8 @@
+Reminder 1:
+"Hey {{name}}, just checking in. Did you get a chance to leave a review?"
+
+Reminder 2:
+"We’d really appreciate it — your feedback helps us improve."
+
+Reminder 3:
+"Last nudge 😊 It only takes 20 seconds. Your support means a lot!"
